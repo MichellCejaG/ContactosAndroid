@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021431242950",
+    "firebase_url": "https://contactosnuevo-251bc.firebaseio.com",
+    "project_id": "contactosnuevo-251bc",
+    "storage_bucket": "contactosnuevo-251bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021431242950:android:8d169a0844cd7486ad37c7",
+        "android_client_info": {
+          "package_name": "com.example.contactosnuevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021431242950-606eaohgib1ikhkccpemic1tpmgdef4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contactosnuevo",
+            "certificate_hash": "9b5def726bc9b5e9374ed250114da302d05fc4e7"
+          }
+        },
+        {
+          "client_id": "1021431242950-km3n8l4mggv6kfklcki8qi4qmb5mkk6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2nOotEU9nvWGG_mMjJek4IJXwvaOnAYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021431242950-km3n8l4mggv6kfklcki8qi4qmb5mkk6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
